@@ -16,7 +16,8 @@ It should say:
 
    The following two-octet Element ID is RESERVED: 0x7FFF.
 
-   Values in the two-octet ranges of 0x0100 - 0x407E and 0x8000 - 0xFFFF are not valid for use as  Element IDs.
+   Values in the two-octet ranges of 0x0100 - 0x407E and 
+   0x8000 - 0xFFFF are not valid for use as  Element IDs.
 
    Three-octet Element IDs MUST be allocated in the range 0x203FFF - 0x3FFFFE.
    Element IDs are to be allocated within this range according to the
@@ -24,7 +25,8 @@ It should say:
 
    The following three-octet Element ID is RESERVED: 0x3FFFFF.
 
-   Values in the three-octet ranges of 0x010000 - 0x203FFE and 0x400000 - 0xFFFFFF are not valid for use as Element IDs.
+   Values in the three-octet ranges of 0x010000 - 0x203FFE and 
+   0x400000 - 0xFFFFFF are not valid for use as Element IDs.
 
    Four-octet Element IDs MUST be allocated in the range 0x101FFFFF - 0x1FFFFFFE.
    Four-octet Element IDs are somewhat special in that they are useful
